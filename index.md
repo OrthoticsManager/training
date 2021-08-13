@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Podiatric Practice Management's HIPAA Training Material
 
 You can use the [editor on GitHub](https://github.com/OrthoticsManager/training/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
