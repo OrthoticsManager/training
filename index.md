@@ -1,6 +1,5 @@
-## Podiatric Practice Management LLC HIPAA Training Material
+## HIPAA Training Material
 
-[Readme](https://github.com/OrthoticsManager/training/blob/master/README.md)
 
 You can use the [editor on GitHub](https://github.com/OrthoticsManager/training/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
